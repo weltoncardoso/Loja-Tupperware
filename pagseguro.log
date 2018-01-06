@@ -1,0 +1,33 @@
+
+30/10/2017 15:35:54 PagSeguro.Session[info]: Begin
+30/10/2017 15:35:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=weltonvcardoso%40gmail.com&token=AE5F24800A594E028A4BF765549EFA10
+30/10/2017 15:35:56 PagSeguro.Session[info]: Session ID: b0e7b0ccbb5a417da341a18b27798f37
+30/10/2017 15:36:05 PagSeguro.Session[info]: Begin
+30/10/2017 15:36:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=weltonvcardoso%40gmail.com&token=AE5F24800A594E028A4BF765549EFA10
+30/10/2017 15:36:08 PagSeguro.Session[info]: Session ID: 2f1117389aab42c9b5abef233468b1a2
+01/11/2017 00:20:25 PagSeguro.Session[info]: Begin
+01/11/2017 00:20:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=weltonvcardoso%40gmail.com&token=AE5F24800A594E028A4BF765549EFA10
+01/11/2017 00:20:26 PagSeguro.Session[info]: Session ID: 558573284623401080babbe6f8e39751
+01/11/2017 00:22:23 PagSeguro.DirectPayment.CreditCard[info]: Begin
+01/11/2017 00:22:24 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=weltonvcardoso%40gmail.com&token=AE5F24800A594E028A4BF765549EFA10
+01/11/2017 00:22:24 PagSeguro.Checkout[info]: Params: {"reference":"1","notificationURL":"http:\/\/localhost\/lojatupperware\/psckttransparente\/notification","billingAddressStreet":"Rua sn","billingAddressNumber":"00","billingAddressComplement":"","billingAddressCity":"Distrito Federal","billingAddressState":"DF","billingAddressDistrict":"Samambaia sul","billingAddressPostalCode":"72301407","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Welton cardoso","creditCardHolderCPF":"93346557120","installmentQuantity":"4","installmentValue":"71.86","itemId1":1,"itemDescription1":"Tupperware Bea  ","itemQuantity1":1,"itemAmount1":"247.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"weltonvcardoso@gmail.com","senderName":"Welton cardoso","senderEmail":"c75128610136929672058@sandbox.pagseguro.com.br","senderAreaCode":"61","senderPhone":"(**) 99410-****","senderCPF":"933.***.***-**","senderIp":"127.0.0.1","senderHash":"5b0b444eef99af5e889652cb2457ea1f736211d3d780458e65b8ddb2515f77b8","shippingCost":"20.16","shippingAddressStreet":"Rua sn","shippingAddressNumber":"00","shippingAddressComplement":"","shippingAddressCity":"Distrito Federal","shippingAddressState":"DF","shippingAddressDistrict":"Samambaia sul","shippingAddressPostalCode":"72301407","shippingAddressCountry":"BRA","creditCardToken":"1f890023dc754597b320afb47fe3c249"}
+01/11/2017 00:22:27 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 98355BC0-E141-4217-8F80-AC1929420A01
+01/11/2017 00:22:27 PagSeguro.Session[info]: Begin
+01/11/2017 00:22:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=weltonvcardoso%40gmail.com&token=AE5F24800A594E028A4BF765549EFA10
+01/11/2017 00:22:28 PagSeguro.Session[info]: Session ID: 8b83cdb4182146028365fdad331264dc
+03/11/2017 13:06:12 PagSeguro.Session[info]: Begin
+03/11/2017 13:06:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=weltonvcardoso%40gmail.com&token=AE5F24800A594E028A4BF765549EFA10
+03/11/2017 13:06:15 PagSeguro.Session[info]: Session ID: 64a5a481d75548959132c2a11bc68c98
+03/11/2017 13:06:56 PagSeguro.DirectPayment.CreditCard[info]: Begin
+03/11/2017 13:06:56 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=weltonvcardoso%40gmail.com&token=AE5F24800A594E028A4BF765549EFA10
+03/11/2017 13:06:56 PagSeguro.Checkout[info]: Params: {"reference":"3","notificationURL":"http:\/\/localhost\/lojatupperware\/psckttransparente\/notification","billingAddressStreet":"Rua sn","billingAddressNumber":"00","billingAddressComplement":"","billingAddressCity":"Distrito Federal","billingAddressState":"DF","billingAddressDistrict":"Samambaia sul","billingAddressPostalCode":"72301407","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Welton cardoso","creditCardHolderCPF":"93346557120","installmentQuantity":"1","installmentValue":"267.16","itemId1":1,"itemDescription1":"Tupperware Bea  ","itemQuantity1":1,"itemAmount1":"247.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"weltonvcardoso@gmail.com","senderName":"Welton cardoso","senderEmail":"c75128610136929672058@sandbox.pagseguro.com.br","senderAreaCode":"61","senderPhone":"(**) 99410-****","senderCPF":"933.***.***-**","senderIp":"127.0.0.1","senderHash":"dace7a893359a2b6fd3119f2689aa4575f2f546a4685e3908dcb3c3bbc090d01","shippingCost":"20.16","shippingAddressStreet":"Rua sn","shippingAddressNumber":"00","shippingAddressComplement":"","shippingAddressCity":"Distrito Federal","shippingAddressState":"DF","shippingAddressDistrict":"Samambaia sul","shippingAddressPostalCode":"72301407","shippingAddressCountry":"BRA","creditCardToken":"a9bd1590fd9a4e5591bb3272b4e9a8a2"}
+03/11/2017 13:07:02 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 99F7B11A-0DFD-4E41-B39A-DF71C80789ED
+03/11/2017 13:07:03 PagSeguro.Session[info]: Begin
+03/11/2017 13:07:03 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=weltonvcardoso%40gmail.com&token=AE5F24800A594E028A4BF765549EFA10
+03/11/2017 13:07:07 PagSeguro.Session[info]: Session ID: ea8f0872538946f6a41c2c99cbc18fcb
+15/11/2017 01:44:54 PagSeguro.Session[info]: Begin
+15/11/2017 01:44:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=weltonvcardoso%40gmail.com&token=AE5F24800A594E028A4BF765549EFA10
+15/11/2017 01:44:55 PagSeguro.Session[info]: Session ID: c829ff2939a34e9ab4b27cb5ba50edc3
+15/11/2017 01:51:53 PagSeguro.Session[info]: Begin
+15/11/2017 01:51:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=weltonvcardoso%40gmail.com&token=AE5F24800A594E028A4BF765549EFA10
+15/11/2017 01:51:54 PagSeguro.Session[info]: Session ID: ec552eb4479a415c86f8872f8ffdd6a8

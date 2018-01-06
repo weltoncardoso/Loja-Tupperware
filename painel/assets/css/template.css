@@ -1,0 +1,19 @@
+body {
+    margin:0;
+    background-color:#1e1e1e;
+}
+.login-page {
+	background-image: url(../images/photo.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	bottom: 0;
+	color: blue;
+	left: 0;
+	overflow: auto;
+	padding: 2cm;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	top: 0;
+	background-size: cover;
+}
